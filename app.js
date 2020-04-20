@@ -1,5 +1,5 @@
 $(function(){
-    let header=$("#header");//объявили перменные
+    let header=$("#header");
     let intro=$("#intro");
     let introH = intro.innerHeight();//получаем выстоу блока интро
     let scrollPos = $(window).scrollTop();//получаем значение сколько мы проскролили
